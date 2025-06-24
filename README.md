@@ -9,5 +9,5 @@
 ポップコーンのほかに石も降っており、石に当たってしまうとダメージを受け、HPが0になるとゲーム終了。  
 
 ## リンク
-[GogleDrive](https://drive.google.com/drive/folders/1rclOO341Nk0GNHLNg7EiJoeVuJVKtHH8?usp=drive_link)  
+[GogleDrive](https://drive.google.com/drive/folders/1rclOO341Nk0GNHLNg7EiJoeVuJVKtHH8)  
 [作品動画](https:///drive.google.com/file/d/176hlRVUendUjK-mvxVkRowKuT_jGORuV)
